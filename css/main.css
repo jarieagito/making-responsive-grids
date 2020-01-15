@@ -9,7 +9,7 @@ html {
 
   -moz-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjut: 100%;
+  -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 }
 
@@ -24,9 +24,4 @@ body {
 .img-flex {
   display: block;
   width: 100%;
-}
-
-.grid {
-  display: flex;
-  flex-wrap: wrap;
 }
